@@ -3,6 +3,10 @@ body {
   background-color: #E8ECEF;
 }
 
+span {
+  margin-left: 30px;
+}
+
 .centered {
     padding-top: 200px;
     text-align: center;
@@ -13,4 +17,13 @@ body {
   font-size: 2rem;
   color: #fff;
   background-color: #000;
+}
+
+.btn-social{
+  padding: 15px;
+}
+
+.fa-google {
+  margin: 10px 10px 0px;
+  padding-right: 20px;
 }
